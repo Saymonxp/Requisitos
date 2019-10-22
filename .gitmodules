@@ -1,0 +1,6 @@
+[submodule "mplay"]
+	path = mplay
+	url = https://github.com/sebastiangi312/mplay
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/sebastiangi312/Backend
